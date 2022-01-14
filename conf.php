@@ -1,6 +1,6 @@
 <?php
     date_default_timezone_set('Asia/Jakarta');
-    define('DB_HOST', '152313202334.ip-dynamic.com:3307');
+    define('DB_HOST', '-');
     define('DB_USER', 'root');
     define('DB_PASS', 'nugrahasatria');
     define('DB_NAME', 'rsmh');
